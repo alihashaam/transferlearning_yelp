@@ -1,0 +1,4 @@
+"Opinion","F1-score","Precision","Recall"
+"Negative",0.8,0.73,0.9
+"Neutral",0,0,0
+"Positive",0.91,0.89,0.93

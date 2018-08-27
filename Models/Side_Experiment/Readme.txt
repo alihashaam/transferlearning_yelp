@@ -1,0 +1,1 @@
+This experiment was done on the restautrants dataset using MNB but with the advanced preprocessing pipeline not the standard one. The accuracy was 0.79. It's the same accuracy that we got with the standard pipline.
